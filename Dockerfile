@@ -9,16 +9,15 @@ RUN ssh-keygen -q -t ecdsa -f /etc/ssh/ssh_host_ecdsa_key -N ''
 RUN sed -i '/^session\s\+required\s\+pam_loginuid.so/s/^/#/' /etc/pam.d/sshd
 RUN mkdir -p /root/.ssh && chown root.root /root && chmod 700 /root/.ssh
 EXPOSE 22
-EXPOSE 8886
 EXPOSE 3306
 EXPOSE 443
 EXPOSE 80
-EXPOSE 24680
 COPY blog_auto_start.sh /root
 COPY nginx.conf /root
 COPY plumemo-v1.0.0.sh /root
 ADD theme /root
 ADD plumemo-v1.2.0.jar /usr/local/software/
+COPY jdk-8u144-linux-x64.tar.gz /usr/local/software
 COPY admin.zip /usr/local/software
 COPY nginx-1.17.9.tar.gz /usr/local/software
 COPY theme-react-sakura.zip /usr/local/software
