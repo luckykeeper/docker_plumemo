@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3a574d82.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ce746bb1.js",
+    "static/css/2.69cab34f.chunk.css": "/static/css/2.69cab34f.chunk.css",
+    "static/js/2.0447f6c7.chunk.js": "/static/js/2.0447f6c7.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.6c322d049eea90ba2598cd479523047b.js": "/precache-manifest.6c322d049eea90ba2598cd479523047b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0447f6c7.chunk.js.LICENSE.txt": "/static/js/2.0447f6c7.chunk.js.LICENSE.txt",
+    "static/media/404.png": "/static/media/404.9615b8a5.png",
+    "static/media/ayuda.cur": "/static/media/ayuda.4f1cd0e7.cur",
+    "static/media/next-b.svg": "/static/media/next-b.2dd613cb.svg",
+    "static/media/normal.cur": "/static/media/normal.468b8ee9.cur",
+    "static/media/sakura.svg": "/static/media/sakura.b9778335.svg",
+    "static/media/texto.cur": "/static/media/texto.68d4b275.cur"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce746bb1.js",
+    "static/css/2.69cab34f.chunk.css",
+    "static/js/2.0447f6c7.chunk.js",
+    "static/js/main.3a574d82.chunk.js"
+  ]
+}
