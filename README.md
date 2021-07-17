@@ -1,7 +1,7 @@
 # docker_plumemo
 plumemo博客容器镜像（半成品）
 
-> 说是半成品的原因是需要手动执行一键部署脚本的命令，如果您能够完善这个镜像，欢迎提 PR ，非常感谢！
+> 说是半成品的原因是需要手动执行一键部署脚本的命令，如果您能够完善这个镜像，欢迎提交 PR ，非常感谢！
 
 使用指南、相关信息等，请移步[DockerHub](https://hub.docker.com/r/luckykeeper/plumemo_pre)页面
 
@@ -19,6 +19,8 @@ plumemo博客容器镜像（半成品）
 
 感谢 plumemo 官方提供的一键脚本 [plumemo-deploy](https://github.com/byteblogs168/plumemo-deploy)
 
+如果该项目帮助到了你，请给个 star 吧~
+
 以下部分是 plumemo 介绍，引自[ plumemo-deploy](https://github.com/byteblogs168/plumemo-deploy)，供对 plumemo 不了解的用户参考，[ plumemo 传送门](https://github.com/byteblogs168/plumemo)
 
 <h1 align="center"><a href="https://github.com/byteblogs168/plumemo" target="_blank">plumemo</a></h1>
@@ -34,7 +36,7 @@ plumemo博客容器镜像（半成品）
 
 ------------------------------
 
-## 简介
+简介
 
 **plumemo** [plumemo]，plume（羽） + memo（备忘录）
 
