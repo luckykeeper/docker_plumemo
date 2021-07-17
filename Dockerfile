@@ -17,7 +17,6 @@ COPY nginx.conf /root
 COPY plumemo-v1.0.0.sh /root
 ADD theme /root
 ADD plumemo-v1.2.0.jar /usr/local/software/
-COPY jdk-8u144-linux-x64.tar.gz /usr/local/software
 COPY admin.zip /usr/local/software
 COPY nginx-1.17.9.tar.gz /usr/local/software
 COPY theme-react-sakura.zip /usr/local/software
