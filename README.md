@@ -1,6 +1,8 @@
 # docker_plumemo
 plumemo博客容器镜像（半成品）
 
+【置顶】本项目不受 Apache Log4j2 远程代码执行漏洞影响，详见：https://github.com/byteblogs168/plumemo/issues/18
+
 > 说是半成品的原因是需要手动执行一键部署脚本的命令，如果您能够完善这个镜像，欢迎提交 PR ，非常感谢！
 
 使用指南、相关信息等，请移步[DockerHub](https://hub.docker.com/r/luckykeeper/plumemo_pre)页面
