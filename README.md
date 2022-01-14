@@ -1,5 +1,5 @@
 # docker_plumemo
-plumemo博客容器镜像（半成品）
+plumemo博客容器镜像（All in One）
 
 【置顶】本项目不受 Apache Log4j2 远程代码执行漏洞影响，详见：https://github.com/byteblogs168/plumemo/issues/18
 
